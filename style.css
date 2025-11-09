@@ -1,0 +1,110 @@
+body{
+  background: lemonchiffon;
+  margin-top:0;
+  background-repeat: no-repeat;
+  background-size: 107%;
+  opacity: %;
+  color:   
+}
+.h1{
+  margin-top: -20px;
+  color:    ng;
+  text-shadow: -8px -3px 6px black;  ;
+}
+
+table{
+  border: 0px lightcyan;
+  border-spacing: 15px;
+  height: 10px;
+  gap: 30px;
+  width: 100%;
+  padding-bottom: 0px;
+  margin-top: -29px;
+}
+.a th, td { 
+  text-shadow: 0px -2px 20px yellow;
+  font-weight: bold;
+  border: px solid black;
+  border-radius: 10px;
+  color: black;
+  background: lightcyan;
+  box-shadow: 6px 7px 1px 0px pink;
+  width: 7px;
+  text-align: center;
+  border-spacing: 270px;
+  gap: 3px;
+  font-size: 2px;
+}
+.f{
+  width:100px;
+  height: 1px;
+  font-size: 36px;
+}
+.f a{
+  color:  deeppink;
+  text-decoration: none;
+}
+.c{
+  width: 100px;
+  font-size: 36px;
+}
+.d{
+  width:100px;
+  font-size: 36px;
+  margin-left: 70px;
+}
+.e a{
+   box-shadow: 0px 0px 0px 0px lightcyan;
+  border: 0px;
+  background: lightcyan;
+  width: 29px;
+  height: 5px;
+  font-size: 26px;
+  font-weight: bold;
+  margin-left: -555px;
+  padding-right: -5660px;
+  text-align: center;
+  text-decoration-style: -moz-none;
+}
+.b {
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+.b img{
+  position: relative;
+  width:100%;
+  height: 1670px;
+  background-size: cover;
+  background-image: no-repeat;
+  opacity:70%;
+  box-shadow: 5px 1px 9px 9px black;
+}
+.g{ 
+  right: 3%;
+  top: 1.5%;
+  left: 3%;
+  height: 1450px;
+  transform: translate(-80%, -130%,);
+  text-align: center;
+    padding: 60px 72px 70px 70px; 
+  font-size: 20px; 
+  margin-left: 20px 0px 20px ;
+  position: absolute;
+  background: linear-gradient( aquamarine, lemonchiffon, lavenderblush, lavender  );
+}
+p{ text-align: center;
+  color: black;
+  font-size: 50px;
+  font-weight: bold;
+}
+hr{
+  margin-top: -21px;
+  width: 100%;
+  height: 4px;
+  background: fuchsia;
+}
+h1{
+  font-size: 60px;
+  text-shadow: -8px -3px 6px black;
+}
